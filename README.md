@@ -15,16 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+teste:
 <div>
-  <img src="https://img.shields.io/static/v1?label=teste&message=teste2&color=blue"/>
-  <img src="https://img.shields.io/static/v1?label= &message=teste2&color=blue&url=https://digitalinnovation.one/artigos/6-passos-para-criar-um-readme-bonitao-de-perfil-no-github"/>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white$url=https://digitalinnovation.one/artigos/6-passos-para-criar-um-readme-bonitao-de-perfil-no-github"/>
-  
-  
-  
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&user=https://www.linkedin.com/in/heloise-katharine-522998191/"/>
+  <a href="https://www.linkedin.com/in/heloise-katharine-522998191/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+  teste:
+    <a href="https://www.linkedin.com/in/heloise-katharine-522998191/"target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+  https://simpleicons.org/icons/github.svg
 </div>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/simpleicons.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/simpleicons.svg" />
 
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/heloise-katharine-522998191/"/>
-</div>
-https://www.linkedin.com/in/heloise-katharine-522998191/
+  target="_blank"
