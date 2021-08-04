@@ -12,18 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![hello](https://user-images.githubusercontent.com/44498658/128104178-86de7c35-0820-4d85-9671-9d196c1c191e.gif)
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/HeloiseKatharine/HeloiseKatharine-2/blob/main/video/helloworld.mp4" type="video/mp4">
-  Seu navegador n~~ao suporta tags de vídeo.
-</video>
+## Olá, eu sou Heloise Katharine 😊
 
-<a href="https://github.com/HeloiseKatharine/HeloiseKatharine-2/blob/main/hello.gif"><img src="https://github.com/HeloiseKatharine/HeloiseKatharine-2/blob/main/hello.gif"/> </a>
+Seja bem-vindo ao meu github
 
-<img src="https://github.com/HeloiseKatharine/HeloiseKatharine-2/blob/main/hello.gif"/>
+### 👩🏽‍💻 Interessada em desenvolvimento web, cloud, banco de dados e entre outras tecnologias.
 
-![Alt text](https://github.com/HeloiseKatharine/HeloiseKatharine-2/blob/main/hello.gif)
+### 📚 Cursando Ciencia da Computação
 
+### 🌱 Atualmente estudando
+* 🐍 Python
+* ☁  GCP
+* 🟡 JavaScript
+* 🟠 HTML5
+* 🔵 CSS3
+
+### 📬 Contatos
 <div>
     <a href="https://www.linkedin.com/in/heloise-katharine-522998191/"target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 </div>
