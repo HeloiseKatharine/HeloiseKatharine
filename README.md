@@ -18,14 +18,13 @@ Here are some ideas to get you started:
 
 Seja bem-vindo ao meu github
 
-### 👩🏽‍💻 Interessada em desenvolvimento web, cloud, banco de dados e entre outras tecnologias.
+### 👩🏽‍💻 Interessada em desenvolvimento web, cloud, banco de dados, entre outros.
 
 ### 📚 Cursando Ciencia da Computação
 
 ### 🌱 Atualmente estudando
 * 🐍 Python
-* ☁  GCP
-* 🍃 MongoDB
+* ☁  AWS
 
 ### 📬 Contato
 <div>
