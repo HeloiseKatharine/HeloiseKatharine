@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 Seja bem-vindo ao meu github
 
-### 📚 Cursando Ciencia da Computação
+### 📚 Cursando Ciência da Computação
 
 ### 🌱 Atualmente estudando
-* 🐍 Python
-* ☁  AWS
+* 🐘 PHP
+* 🍃 Leaflet
 
 ### 📬 Contato
 <div>
