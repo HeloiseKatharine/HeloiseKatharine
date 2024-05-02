@@ -27,6 +27,7 @@ Seja bem-vindo ao meu github
 ### 🌱 Atualmente estudando
 * 🐘 PHP
 * 🍃 Leaflet
+* 🐍 Python
 
 ### 📬 Contato
 <div>
