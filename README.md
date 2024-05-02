@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
     
-![hello](https://user-images.githubusercontent.com/44498658/128104178-86de7c35-0820-4d85-9671-9d196c1c191e.gif)
+<!--![hello](https://user-images.githubusercontent.com/44498658/128104178-86de7c35-0820-4d85-9671-9d196c1c191e.gif) -->
+![hello](https://github.com/HeloiseKatharine/HeloiseKatharine/assets/44498658/58809570-cd70-439b-9678-b3f92d94b691)
 
 </div>
 
