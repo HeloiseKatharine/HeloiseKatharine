@@ -11,6 +11,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<iframe src="https://giphy.com/embed/px9v45I39CcxyXPqEy" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-typing-working-from-home-px9v45I39CcxyXPqEy">via GIPHY</a></p>
+
+<iframe src="https://giphy.com/embed/LHZyixOnHwDDy" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-working-cat-LHZyixOnHwDDy">via GIPHY</a></p>
+
+ ![CatBlackCatGIF](https://github.com/HeloiseKatharine/HeloiseKatharine/assets/44498658/af83f6dd-ad91-497f-9283-249cc1f49bc7)
 -->
 <div align="center">
     
@@ -19,9 +25,23 @@ Here are some ideas to get you started:
 
 </div>
 
-## Olá, eu sou Heloise Katharine 😊
+## Olá👋
 
-Seja bem-vindo ao meu github
+## Eu sou Heloise Katharine 😊
+
+<!-- Seja bem-vindo ao meu github 
+
+<div style="display: flex; flex-direction: row;">
+
+<div align="right">
+
+![sdas](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDh1YzFjYzNvM2U4dHEzeGdmM2Zmd2cyd29lbnR5NjBqenp3Y213dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/px9v45I39CcxyXPqEy/giphy.gif) 
+   
+</div>
+
+<div align="left">
+
+-->
 
 ### 📚 Cursando Ciência da Computação
 
@@ -30,11 +50,16 @@ Seja bem-vindo ao meu github
 * 🍃 Leaflet
 * 🐍 Python
 
+<!--
+</div>
+
+</div>
+-->
+
 ### 📬 Contato
 <div>
     <a href="https://www.linkedin.com/in/heloise-katharine-522998191/"target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 </div>
-
 
 ### 👩🏽‍💻 Tecnologias
 <div>
